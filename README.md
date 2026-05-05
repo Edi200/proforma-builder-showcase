@@ -89,3 +89,7 @@ List page combining table interactions, inline status management, PDF preview, a
 - **Images:** Intervention Image
 - **Email:** Laravel Mailable
 - **Routing:** Laravel Wayfinder
+
+## Screenshot
+
+![Proforma Builder](proforma_builder.png)
